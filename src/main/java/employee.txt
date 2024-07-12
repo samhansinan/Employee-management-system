@@ -1,0 +1,5 @@
+E001,samhan,0766210620,samhansinan@gmail.com,4321,manager
+E002,farwees,0761234765,farwis@gmail.com,9870,busines analyst
+E003,atheek,0775432098,atheek@gmail.com,9870,project manager
+E004,afnath,0775476123,afnath@gmail.com,8765,ux ui
+E005,arkam,0769876423,arkam@gmail.com,9879,programmer
